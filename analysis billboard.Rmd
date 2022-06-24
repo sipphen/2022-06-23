@@ -1,0 +1,13 @@
+---
+title: "billboard analysis pt 2"
+author: "Henry Sippel"
+date: '2022-06-24'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(billboard)
+```
+
